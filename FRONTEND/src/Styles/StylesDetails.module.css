@@ -1,0 +1,111 @@
+.details{
+    width: 80%;
+    height: 600px;
+    
+    /* border:  1px solid red; */
+    margin: auto;
+}
+.detailsSection{
+    width: 100%;
+    height: 100%;
+    /* border:  1px solid red; */
+    margin: auto;
+    display: flex;
+
+    
+}
+.detailsImage{
+    width: 30%;
+    height: 70%;
+    /* border:  1px solid red; */
+
+}
+.img{
+    width: 30%;
+    height: 100%;
+}
+.detailsRightSection{
+    width: 60%;
+    margin-left: 10%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2px;
+}
+.img{
+    width: 100%;
+    /* border:  1px solid red; */
+    height: 100%;
+}
+.detailsTitle{
+    width: 100%;
+    /* border:  1px solid red; */
+    height: 10%;
+}
+.detailsPrice{
+    width: 100%;
+    height: 10%;
+    /* border:  1px solid red; */
+
+}
+.detailsSize{
+    width: 100%;
+    height: 10%;
+    /* border:  1px solid red; */
+
+}
+.detailsColor{
+    width: 100%;
+    height: 10%;
+    /* border:  1px solid red; */
+
+}
+.detailsButBtn{
+    width: 100%;
+    height: 40%;
+    /* border:  1px solid red; */
+    gap: 2px;
+
+}
+.detailsButBtnBuy{
+    width: 50%;
+    height: 60px;
+    /* border:  1px solid red; */
+   
+}
+.detailsAddCart{
+    width: 50%;
+    height: 60px;
+    /* border:  1px solid red; */
+}
+.detailsBtnButon{
+    width: 70%;
+    height: 60%;
+    padding: 10px;
+    font-weight: 700;
+    text-align: center;
+    padding: 5px;
+    background-color: green;
+    border: green;
+    color: white;
+
+}
+.Navbar{
+    margin-top: 30px;
+    width: 100%;   
+    height: 60px;
+    background-color: rgb(4, 75, 31);
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    color: white;
+}
+.links{
+    text-decoration: none;
+    color: white;
+}

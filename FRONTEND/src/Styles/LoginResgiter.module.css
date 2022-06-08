@@ -1,0 +1,67 @@
+.login_container{
+    width: 50%;
+    height: 500px;
+    margin: auto;
+    border: 1px solid green;
+    text-align: center;
+    margin-top: 100px;
+    
+}
+.login_input{
+
+    width: 100%;
+  height: 83%;
+    margin: auto;
+    border: 1px solid green;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-bottom: none;
+    gap: 20px;
+    
+}
+.link_btn{
+    width: 100%;
+    text-decoration: none;
+    color: rgb(13, 116, 4); 
+    margin-right: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    
+ 
+}
+.submits{
+    width: 220px;
+    height: 30px;
+    background-color: green;
+    color: white;
+    border: 3px solid  green;
+    margin-left: 10px;
+}
+.login_btns{
+    width: 100%;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+}
+.inputBox{
+    width: 50%;
+    height: 30px;
+    outline: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+    border-top: 3px solid green;
+}
+.submit{
+    width: 220px;
+    height: 30px;
+    background-color: green;
+    color: white;
+    border: 3px solid  green;
+}

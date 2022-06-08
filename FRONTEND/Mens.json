@@ -1,0 +1,434 @@
+ [
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/573f2586-6614-46db-bacc-6da153d150da.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Georgia Crewneck T-Shirt",
+    "price": 5213,
+    "brand": "Polo",
+    "category": "shirts",
+    "color": "black",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/304e7560-046c-48f2-a755-b9de51f23c1f.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "3-Stripes Cotton T-Shirt",
+    "price": 2807,
+    "brand": "Adidas",
+    "category": "shirts",
+    "color": "white",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/d2b7e60f-bd63-46b3-8372-0356743501ea.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Corduroy Button-Up",
+    "price": 3144,
+    "brand": "Topman",
+    "category": "shirts",
+    "color": "gold",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/b24060cc-409e-4165-abdf-72d8d1916e0f.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Stretch Cotton",
+    "price": 3609,
+    "brand": "Polo",
+    "category": "shirts",
+    "color": "blue",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/66bf4401-cfc6-43bd-92fe-cd22cb3b20d5.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Space Dye Polo",
+    "price": 3687,
+    "brand": "Polo",
+    "category": "shirts",
+    "color": "pink",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/3b3143d9-28c2-47f0-b747-0299efcb3ec4.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Long Sleeve Polo",
+    "price": 5050,
+    "brand": "Polo",
+    "category": "shirts",
+    "color": "maroon",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/bdf44d0c-ff21-4a52-aad2-f10d7bfd672d.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Trim Fit Cotton Dress Shirt",
+    "price": 11554,
+    "brand": "Polo",
+    "category": "shirts",
+    "color": "white",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/8d17aec1-a4f9-4840-97ad-bd91132009a8.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Traditional Dress Shirt",
+    "price": 7456,
+    "brand": "Nordstrom",
+    "category": "shirts",
+    "color": "blue",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/8c0af9c1-dc56-449e-99df-dbc898a3237d.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Alf 5146 Flannel",
+    "price": 9654,
+    "brand": "Polo",
+    "category": "shirts",
+    "color": "blue",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/a7eca1a5-f8af-4c1f-9a7e-3891c486a0c7.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "SundayButton-Up",
+    "price": 2465,
+    "brand": "Mavi Jeans",
+    "category": "shirts",
+    "color": "yellow",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/bd739779-7654-4f53-bda3-77a134a3b73d.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Cotton Button-Up Shirt",
+    "price": 1265,
+    "brand": "Polo",
+    "category": "shirts",
+    "color": "blue",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/6b6be057-3488-49cf-9654-0cf7fb9b252e.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Generation Stretch",
+    "price": 4569,
+    "brand": "Adidas",
+    "category": "shirts",
+    "color": "black",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/f212db0c-1ab6-4c0d-bb00-6cfb10871de0.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Knit Jogger Pajama Pants",
+    "price": 1563,
+    "brand": "Polo",
+    "category": "Loungewear",
+    "color": "white",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/0711081e-e3e3-44b6-8099-54561301bc13.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Microfiber Men's Robe",
+    "price": 8523,
+    "brand": "Polo",
+    "category": "Loungewear",
+    "color": "blue",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/78541b30-671d-4349-bd67-25aadd1ce54e.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Stripe Cotton Bathrobe",
+    "price": 7596,
+    "brand": "Adidas",
+    "category": "Loungewear",
+    "color": "yellow",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/d9ba3a4f-ecba-4f47-ac8d-708151b91164.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Plush Jacquard Robe",
+    "price": 4563,
+    "brand": "Nordstrom",
+    "category": "Loungewear",
+    "color": "grey",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/f46b32ac-c58a-44d8-83ee-474cbd87726d.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Robinson Robe",
+    "price": 5632,
+    "brand": "Adidas",
+    "category": "Loungewear",
+    "color": "black",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/e255fe0d-ad27-4201-9fdd-057dc2529bca.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Cotton Robe",
+    "price": 7896,
+    "brand": "Adidas",
+    "category": "Loungewear",
+    "color": "gold",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/c73e74a5-5858-4260-8896-b261d9afb2cc.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Peruvian Pima Cotton Robe",
+    "price": 4563,
+    "brand": "Adidas",
+    "category": "Loungewear",
+    "color": "black",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/23669523-42b3-4a50-b7fc-680f01eb3a26.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Plush Jacquard Robe",
+    "price": 4587,
+    "brand": "Nordstrom",
+    "category": "Loungewear",
+    "color": "red",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/f095c4c1-6372-484a-9164-7c50345b3755.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Comfort Waffle Robe",
+    "price": 6523,
+    "brand": "Adidas",
+    "category": "Loungewear",
+    "color": "blue",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/f7d2a213-b1a8-404c-b612-fd174dcf9732.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Flower Cotton Bathrobe",
+    "price": 1236,
+    "brand": "Adidas",
+    "category": "Loungewear",
+    "color": "white",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/63c0913e-5ee1-4478-a512-36f093908ffc.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Cashmere Crewneck Sweater",
+    "price": 7885,
+    "brand": "Nordstrom",
+    "category": "sweaters",
+    "color": "blue",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/c400f39c-733e-498f-ad3c-97fe4b922a13.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Men's Shop Regular Fit Cashmere Quarter Zip Pullover (Regular & Tall)",
+    "price": 5486,
+    "brand": "Nordstrom",
+    "category": "sweaters",
+    "color": "green",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/d75e6735-a6ef-4ab1-8967-bdac7ae6d5a5.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Stripe Panel Cardigan",
+    "price": 4578,
+    "brand": "Nike",
+    "category": "sweaters",
+    "color": "pink",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/31e5b1b1-0a84-4d03-b219-6c85b14c10be.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Rodd & Gunn Merrick Bay Sweater",
+    "price": 4563,
+    "brand": "Nike",
+    "category": "sweaters",
+    "color": "black",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/2680ad74-7280-4a6f-af61-d493cfbd52f4.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Men's Solid Turtleneck Sweater",
+    "price": 4589,
+    "brand": "Nike",
+    "category": "sweaters",
+    "color": "orange",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/4da8598f-26eb-4630-86c4-5c1a5d37d38c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Crown Regular Fit Quarter Zip Pullover",
+    "price": 5125,
+    "brand": "Nike",
+    "category": "sweaters",
+    "color": "maroon",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/99a672b7-8062-4289-83eb-abb9af799a2f.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Mode Slim Fit Wool Sweater",
+    "price": 4566,
+    "brand": "Nike",
+    "category": "sweaters",
+    "color": "green",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/ffdc6be5-a69d-4a53-8972-84df54c03fe3.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Half Zip Cotton & Cashmere Pullover (Regular & Tall)",
+    "price": 1123,
+    "brand": "Nordstrom",
+    "category": "sweaters",
+    "color": "grey",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/63beab63-d262-4315-9f91-1594d4918eb7.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Waffle Texture Crewneck Sweater",
+    "price": 4456,
+    "brand": "Nike",
+    "category": "sweaters",
+    "color": "white",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/b3dbbac5-4c20-492c-b960-9d0ee08194ad.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Blackhall Wool Quarter Zip Sweater",
+    "price": 4455,
+    "brand": "Nike",
+    "category": "sweaters",
+    "color": "maroon",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/e6f0fa4a-d7af-4049-99b4-65cee9f4e62b.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Men'sSlim Fit Jeans",
+    "price": 4444,
+    "brand": "Topman",
+    "category": "Jeans",
+    "color": "black",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/3cd19957-fa46-4b17-bdf5-babaf8051c7c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Skinny Stretch Jeans",
+    "price": 4456,
+    "brand": "Topman",
+    "category": "Jeans",
+    "color": "black",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/9ca4a489-89ed-409a-8a1f-621c355fbb5e.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Slim Fit Jeans",
+    "price": 11223,
+    "brand": "Topman",
+    "category": "Jeans",
+    "color": "blue",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/e45e4250-d2ec-442c-bf13-72d18f341c1f.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Men's Slim Fit Jeans",
+    "price": 5555,
+    "brand": "Topman",
+    "category": "Jeans",
+    "color": "grey",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/f0de26a5-d80d-4457-9c1f-be1aa6450168.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Stretch Cotton Jeans",
+    "price": 6666,
+    "brand": "Topman",
+    "category": "Jeans",
+    "color": "white",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/b5d925db-e546-4562-a516-ddc2e23dedfc.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Ripped Stretch Skinny Jeans",
+    "price": 4562,
+    "brand": "Topman",
+    "category": "Jeans",
+    "color": "balck",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/0e247cf7-26fe-4915-b99c-4a9febcc2657.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Athletic Fit Performance Stretch Jeans (Gates)",
+    "price": 5687,
+    "brand": "Nike",
+    "category": "Jeans",
+    "color": "blue",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/1083119d-552c-41e4-a43d-540dad808967.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Ripped Skinny Jeans (Grey)",
+    "price": 1235,
+    "brand": "Topman",
+    "category": "Jeans",
+    "color": "grey",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/724761e8-4c6b-48e2-9426-b877eb8b4f55.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Zach Straight Leg Jeans (Dark Blue Austin)",
+    "price": 1235,
+    "brand": "Mavi Jeans",
+    "category": "Jeans",
+    "color": "blue",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/0a65d941-2682-4e3a-bb0e-3a58f874adc4.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Transcend Lennox Slim Fit Jeans (Black Shadow)",
+    "price": 7777,
+    "brand": "Mavi Jeans",
+    "category": "Jeans",
+    "color": "black",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/ca16d0e4-ed7c-4748-9698-6069a947f22c.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Icon Bomber Jacket",
+    "price": 4568,
+    "brand": "Topman",
+    "category": "Jackets",
+    "color": "green",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/b549c913-e044-4f62-9ef4-668c1ef4a495.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Suffolk",
+    "price": 7456,
+    "brand": "Mavi Jeans",
+    "category": "Jackets",
+    "color": "blue",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/dcb44bd1-ac55-4d8f-b138-1b5a6327e022.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Hooded Jacket",
+    "price": 7456,
+    "brand": "Mavi Jeans",
+    "category": "Jackets",
+    "color": "balck",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/32ce084f-1e28-43f4-bd0c-08b15be9da8b.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Men's Classic Fit Denim Jacket",
+    "price": 1245,
+    "brand": "Topman",
+    "category": "Jackets",
+    "color": "blue",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/8c5b0115-d425-4547-9949-b0b875b20f57.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Nuptse Down Jacket",
+    "price": 7778,
+    "brand": "Mavi Jeans",
+    "category": "Jackets",
+    "color": "red",
+    "Item": 1
+  },
+  {
+    "image_url": "https://n.nordstrommedia.com/id/sr3/bd57c344-cd48-439b-be5f-330a2085fe6f.jpeg?crop=pad&pad_color=FFF&format=jpeg&w=780&h=1196",
+    "name": "Darien Cashmere Coat",
+    "price": 9999,
+    "brand": "Nordstrom",
+    "category": "Jackets",
+    "color": "black",
+    "Item": 1
+  }
+]

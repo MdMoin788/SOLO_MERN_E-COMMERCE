@@ -1,0 +1,116 @@
+.productContainer {
+    width: 100%;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  box-sizing: border-box;
+  padding: 10px;
+ 
+  gap: 20px;
+  text-align: center;
+
+}
+.productContainerChild {
+  width:80% ;
+
+   box-sizing: border-box;
+
+   box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+   border: 1px solid rgba(0, 0, 0, 0.24) ;
+  display: flex;
+  flex-direction:column;
+  padding: 20px;
+  color: black;
+  margin-bottom: 20px;
+  gap: -30px;
+}
+.productContainerChild:hover{
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  border: 1px solid rgba(0, 0, 0, 0.24) 
+
+
+}
+.link{
+  text-decoration: none;
+  color: rgb(4, 75, 31);
+
+
+}
+.productContainerImage {
+  width: 100%;
+  height: 70%;
+  /* border: 1px solid rgb(140, 0, 255); */
+}
+.productContainerImage:hover{
+  padding: 10px;
+  box-sizing: border-box;
+}
+.productContainerDexcription{
+    width: 100%;
+    height: 40%;
+  box-sizing: border-box;
+
+    /* border: 1px solid red; */
+}
+.productContainerImageImg{
+    width: 100%;
+    height: 100%;
+}
+.productContainerCart{
+  width: 150px;
+  background-color: rgb(4, 75, 31);
+  margin-top: -30px;
+  color: white;
+  height: 35px;
+  margin: auto;
+  border: rgb(4, 75, 31);
+  cursor: pointer;
+}
+.navPro{
+  width: 100%;
+  height: 60px;
+  /* border: 1px solid red; */
+  background-color: whitesmoke;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.Filter{
+  width: 50%;
+  height: 100%;
+  display: flex;
+}
+.brandTitle{
+  text-align: center;
+}
+
+.navProBrand{
+  width: 300px;
+  height: 60px;
+  /* border: 1px solid red; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-top: -13px;
+}
+.sorting{
+  width: 10%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.Navbar{
+  margin-top: 30px;
+  width: 100%;   
+  height: 60px;
+  /* background-color:rgb(63, 55, 55); */
+  background-color: rgb(4, 75, 31);
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  color: white;
+}
