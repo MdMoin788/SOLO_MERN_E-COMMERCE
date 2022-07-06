@@ -7,7 +7,7 @@ import {
 export const handleMen = () => (dispatch) => {
     try {
       axios
-          .get(`http://localhost:5000/mens`)
+          .get(`https://moin-mern.herokuapp.com/mens`)
           .then((data) => {
                 console.log('data', data);
                 dispatch({ type: "GET_JSON_MEN_DATA", payload: data.data })
@@ -24,7 +24,7 @@ export const handleMen = () => (dispatch) => {
 export const getFilter_product_Men = (data) => (dispatch) => {
   try {
     axios
-      .get(`http://localhost:5000/mens?category=${data}`)
+      .get(`https://moin-mern.herokuapp.com/mens?category=${data}`)
       .then((data) => {
         console.log("data FILTER", data);
         dispatch({ type: "GET_MEN_FILTER_PRODUCT", payload: data.data }); //senfd to reducer
@@ -43,13 +43,13 @@ export const getMen_Sorting_product = (value) => (dispatch) => {
   try {
     if (value == "HTL") {
       axios
-        .get(`http://localhost:5000/mens/sortdesc`)
+        .get(`https://moin-mern.herokuapp.com/mens/sort/asc`)
         .then((data) => {
           console.log("data", data);
           dispatch({ type: "GET_MEN_SORTING_PRODUCT", payload: data.data }); 
         });
     } else {
-      axios.get(`http://localhost:5000/mens/sortasc`).then((data) => {
+      axios.get(`https://moin-mern.herokuapp.com/mens/sort/desc`).then((data) => {
         console.log("data", data);
         dispatch({ type: "GET_MEN_SORTING_PRODUCT", payload: data.data }); 
       });

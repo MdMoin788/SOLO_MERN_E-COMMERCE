@@ -8,6 +8,8 @@ import Navbar from "../Navbar/Navbar";
 export default function Register() {
   const[toggle,setToggle]=useState(true)
   const [user, setUser] = useState({
+    firstName:"",
+    lastName:"",
     email: "",
     password: "",
   });
@@ -15,13 +17,13 @@ export default function Register() {
     
     const { name, value } = e.target;
     setUser({ ...user, [name]: value });
-    user.email!="" && user.password!="" ?  setToggle(false) : <></>
+    user.email!="" && user.password!="" && user.lastName != "" && user.firstName != ""?  setToggle(false) : <></>
 
     console.log("user", user);
   };
   const handleregisterSubmit = () => {
-    axios.post("http://localhost:5000/register", user).then((res) => {
-      console.log(res.data.token.split(".")[0]);
+    axios.post("https://moin-mern.herokuapp.com/register", user).then((res) => {
+      console.log(res.data.token);
     });
   };
   return (
@@ -35,6 +37,20 @@ export default function Register() {
     <div className={Styles.login_container}>
       <h1>Register/Sign Up</h1>
       <div className={Styles.login_input}>
+        <input
+          className={Styles.inputBox}
+          type="text"
+          placeholder="Enter first Name here."
+          name="firstName"
+          onChange={handleRegister}
+        />
+        <input
+          className={Styles.inputBox}
+          type="text"
+          placeholder="Enter last Name here."
+          name="lastName"
+          onChange={handleRegister}
+        />
         <input
           className={Styles.inputBox}
           type="text"

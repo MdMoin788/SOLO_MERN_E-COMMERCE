@@ -1,13 +1,13 @@
-require("dotenv").config();
-
 const mongoose = require("mongoose");
-const connect = () => {
-  return mongoose.connect(process.env.MONGO_URL);
+
+const connect = async () => {
+  try {
+    return await mongoose.connect(
+      "mongodb+srv://moinjack788:moin_788@cluster0.p9u5k.mongodb.net/MoinSoloMern?retryWrites=true&w=majority"
+    );
+  } catch (err) {
+    console.log("error form connection :", err.message);
+  }
 };
+
 module.exports = connect;
-
-
-
-
-
-// mongodb+srv://haleema:zehera@cluster0.pp0jc.mongodb.net/haleemawebsite?retryWrites=true&w=majority

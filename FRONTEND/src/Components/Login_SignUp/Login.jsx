@@ -23,6 +23,7 @@ export default function Login() {
     const handleLoginSubmit = () => {
 
         axios.post("http://localhost:5000/login", user).then((res) => {
+            console.log('res', res.data.token);
             localStorage.setItem("token", JSON.stringify(res.data.token.split(".")[0]))
             alert("Login Successful")
             navigate("/")

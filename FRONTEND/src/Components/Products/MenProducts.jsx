@@ -6,11 +6,11 @@ import { getFilter_product_Men, getMen_Sorting_product, handleMen, kidsTypes } f
 import StylesProduct from "../../Styles/StylesProduct.module.css"
 import Navbar from '../Navbar/Navbar'
 const MenProducts = () => {
+  const products = useSelector((store) => store.products.men_data)
   const dispatch = useDispatch()
   useEffect(() => {
     dispatch(handleMen())
   }, [])
-  const products = useSelector((store) => store.products.men_data)
   console.log('products', products);
   const handleFilter = (data) => {
     dispatch(getFilter_product_Men(data));

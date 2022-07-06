@@ -17,7 +17,7 @@ const DetailsPage = () => {
     console.log('id', id);
     useEffect(() => {
         console.log(id)
-        axios.get(`http://localhost:5000/${types}/${id}`).then((data) => {
+        axios.get(`https://moin-mern.herokuapp.com/${types}/${id}`).then((data) => {
           dispatch(SinglePoduct(data.data));
         });
       }, [id]);  
